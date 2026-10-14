@@ -1,0 +1,7 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+# local helper files, never published (the problem statement must not be posted publicly)
+local_only/
